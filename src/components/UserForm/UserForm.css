@@ -1,0 +1,20 @@
+.user-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.user-form input {
+  padding: 0.5rem;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+
+.user-form button {
+  padding: 0.5rem;
+  background-color: #1976d2;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
